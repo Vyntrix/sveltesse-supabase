@@ -4,6 +4,14 @@
 
 > Note: This repository may be outdated. Please check the [Sveltesse repository](https://github.com/vyntrix/sveltesse) for the latest version. And check the Supabase documentation for updates.
 
+<br>
+
+<p align="center">
+  <a href="https://sveltesse-supabase.vercel.app">Live Demo</a>
+</p>
+
+<br>
+
 - [Supabase Serverside](https://supabase.com/docs/guides/auth/server-side/sveltekit)
 - [Supabase Social Login](https://supabase.com/docs/guides/auth/social-login/auth-github?queryGroups=environment&environment=server&queryGroups=framework&framework=sveltekit)
 - [Sveltesse](https://github.com/vyntrix/sveltesse)
